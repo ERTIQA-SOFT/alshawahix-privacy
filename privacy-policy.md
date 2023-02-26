@@ -146,7 +146,7 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 Please contact us if you have any questions regarding this privacy policy:
 
-- Soft elevation for smart systems-
+- ERTIQA SOFT -
 Yemen - Sana'a
 
 (info.ertiqa.soft@gmail.com)
