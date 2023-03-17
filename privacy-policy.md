@@ -47,6 +47,7 @@ Identity proof
 Address, state, county, zip/zip code, city
 
 We will not be able to access the following sensitive information except with the permission of the user
+## App Permissions
 Access to sensitive information:
 1- Pictures
 2- Files and documents
