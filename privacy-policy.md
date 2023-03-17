@@ -46,6 +46,15 @@ Mail
 Identity proof
 Address, state, county, zip/zip code, city
 
+We will not be able to access the following sensitive information except with the permission of the user
+Access to sensitive information:
+1- Pictures
+2- Files and documents
+3- The camera
+4- Approximate location
+5- Text messages
+6- Contacts
+
 ## Usage data
 
 Usage Data is collected automatically when you use the Service.
