@@ -1,162 +1,170 @@
-Dealing with the application is considered approval of electronic operations such as withdrawing, sending, transferring, privacy settings, or any service provided by the application
+يعتبر التعامل مع التطبيق بمثابة موافقة على العمليات الإلكترونية مثل السحب أو الإرسال أو التحويل أو إعدادات الخصوصية أو أي خدمة يقدمها التطبيق
 
 
-This Privacy Policy describes our policies and procedures regarding the collection, use, and disclosure of your information when you use the Service and tells you your privacy rights and how the law protects you.
+تصف سياسة الخصوصية هذه سياساتنا وإجراءاتنا المتعلقة بجمع معلوماتك واستخدامها والكشف عنها عند استخدام الخدمة وتخبرك بحقوق الخصوصية الخاصة بك وكيف يحميك القانون.
 
 
-We use your personal data to provide and improve the Service. By using the Service, you consent to the collection and use of information in accordance with this Privacy Policy.
+نستخدم بياناتك الشخصية لتقديم الخدمة وتحسينها. باستخدام الخدمة ، فإنك توافق على جمع واستخدام المعلومات وفقًا لسياسة الخصوصية هذه.
 
-## Interpretation and definitions
-Explanation
-Words of which the first letter is capitalized have meanings defined under the following conditions. The following definitions have the same meaning regardless of whether they appear in singular or plural.
+## التفسير والتعريفات
+توضيح
+الكلمات التي يتم كتابة الحرف الأول بها معاني محددة وفقًا للشروط التالية. التعريفات التالية لها نفس المعنى بغض النظر عما إذا كانت تظهر بصيغة المفرد أو الجمع.
 
-definitions
-For the purposes of this Privacy Policy:
+تعريفات
+لأغراض سياسة الخصوصية هذه:
 
-Account means a unique account created for you to access our Service or parts of our Service.
+الحساب يعني حسابًا فريدًا تم إنشاؤه لك للوصول إلى خدمتنا أو أجزاء من خدمتنا.
 
-Affiliate means an entity that controls, is controlled by, or is under common control with a party, where “control” means ownership of 50% or more of the shares, equity interest, or other securities entitled to vote for the election of directors or other management authority.
+الشركة التابعة تعني الكيان الذي يتحكم أو يتحكم فيه أو يخضع لسيطرة مشتركة مع أحد الأطراف ، حيث تعني "السيطرة" ملكية 50٪ أو أكثر من الأسهم أو حقوق الملكية أو الأوراق المالية الأخرى التي يحق لها التصويت لانتخاب أعضاء مجلس الإدارة أو سلطة إدارية أخرى.
 
-Application means the software provided by the Company that you download to any electronic device
+التطبيق يعني البرنامج الذي توفره الشركة والذي تقوم بتنزيله على أي جهاز إلكتروني
 
-Company (referred to as “the Company”, “we”, or “our” in this Agreement) refers to Developer, Yemen, Sana'a.
+الشركة (المشار إليها باسم "الشركة" أو "نحن" أو "خاصتنا" في هذه الاتفاقية) تشير إلى المطور ، اليمن ، صنعاء.
 
-Country refers to: Yemen
+الدولة تشير إلى: اليمن
 
-Device means any device that can access the Service such as a computer, mobile phone or digital tablet.
+الجهاز يعني أي جهاز يمكنه الوصول إلى الخدمة مثل جهاز كمبيوتر أو هاتف محمول أو جهاز لوحي رقمي.
 
-Personal data is any information relating to an identified or identifiable individual.
+البيانات الشخصية هي أي معلومات تتعلق بفرد محدد أو يمكن التعرف عليه.
 
-Service refers to the application.
+تشير الخدمة إلى التطبيق.
 
-Service Provider means any natural or legal person who processes data on behalf of the Company. Refers to third party companies or individuals employed by the Company to facilitate the Service, to provide the Service on behalf of the Company, to perform Service-related services or to assist the Company in analyzing how the Service is used.
+مقدم الخدمة يعني أي شخص طبيعي أو اعتباري يقوم بمعالجة البيانات نيابة عن الشركة. يشير إلى شركات أو أفراد تابعين لجهات خارجية توظفهم الشركة لتسهيل الخدمة أو تقديم الخدمة نيابة عن الشركة أو لأداء الخدمات المتعلقة بالخدمة أو لمساعدة الشركة في تحليل كيفية استخدام الخدمة.
 
-Usage Data refers to data collected automatically, either by use of the Service or from the Service infrastructure itself (for example, the duration of a page visit).
+تشير بيانات الاستخدام إلى البيانات التي يتم جمعها تلقائيًا ، إما عن طريق استخدام الخدمة أو من البنية التحتية للخدمة نفسها (على سبيل المثال ، مدة زيارة الصفحة).
 
-You means the individual accessing or using the Service, or the company, or other legal entity on whose behalf that individual is accessing or using the Service, as applicable.
+أنت تعني الفرد الذي يصل إلى الخدمة أو يستخدمها ، أو الشركة ، أو الكيان القانوني الآخر الذي يصل هذا الفرد إلى الخدمة أو يستخدمها نيابةً عنه ، حسب الاقتضاء.
 
-Collection and use of your personal data
-## Types of data collected
-Personal data
-While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to:
+جمع واستخدام البيانات الشخصية الخاصة بك
+## أنواع البيانات المجمعة
+بيانات شخصية
+أثناء استخدام خدمتنا ، قد نطلب منك تزويدنا بمعلومات تعريف شخصية معينة يمكن استخدامها للاتصال بك أو التعرف عليك. قد تتضمن معلومات التعريف الشخصية ، على سبيل المثال لا الحصر:
 
-full name
-phone number
-Mail
-Identity proof
-Address, state, county, zip/zip code, city
+الاسم الكامل
+رقم التليفون
+بريد
+إثبات الهوية
+العنوان ، الولاية ، المقاطعة ، الرمز البريدي / الرمز البريدي ، المدينة
 
-We will not be able to access the following sensitive information except with the permission of the user
-## App Permissions
-Access to sensitive information:
-1- Pictures
-2- Files and documents
-3- The camera
-4- Approximate location
-5- Text messages
-6- Contacts
+لن نتمكن من الوصول إلى المعلومات الحساسة التالية إلا بإذن من المستخدم
 
-## Usage data
+## أذونات التطبيق
+الوصول إلى المعلومات الحساسة:
+1- الصور
+2- الملفات والمستندات
+3- الكاميرا
+4- الموقع التقريبي
+5- الرسائل النصية
+6- جهات الاتصال
 
-Usage Data is collected automatically when you use the Service.
+## بيانات الاستخدام
 
-Usage Data may include information such as your Device's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
+يتم جمع بيانات الاستخدام تلقائيًا عند استخدامك للخدمة.
 
-When you access the Service by or through a mobile device, we may automatically collect certain information, including, but not limited to, the type of mobile device you use, your mobile device unique identifier, the IP address of your mobile device, your mobile operating system, and the type of mobile Internet browser you are using, unique device identifiers and other diagnostic data.
+قد تتضمن بيانات الاستخدام معلومات مثل عنوان بروتوكول الإنترنت الخاص بجهازك (مثل عنوان IP) ، ونوع المتصفح ، وإصدار المتصفح ، وصفحات الخدمة التي تزورها ، ووقت وتاريخ زيارتك ، والوقت الذي تقضيه على تلك الصفحات ، والجهاز الفريد المعرفات والبيانات التشخيصية الأخرى.
 
-We may also collect information that your browser sends whenever you visit our Service or when you access the Service by or through a mobile device.
+عندما تصل إلى الخدمة عن طريق أو من خلال جهاز محمول ، قد نقوم تلقائيًا بجمع معلومات معينة ، بما في ذلك ، على سبيل المثال لا الحصر ، نوع الجهاز المحمول الذي تستخدمه ، والمعرف الفريد لجهازك المحمول ، وعنوان IP لجهازك المحمول ، وهاتفك المحمول. نظام التشغيل ونوع متصفح الإنترنت على الهاتف المحمول الذي تستخدمه ومعرّفات الجهاز الفريدة وبيانات التشخيص الأخرى.
 
-Information collected while using the app
-While using our App, in order to provide features of our App we may collect, with your prior permission:
+قد نقوم أيضًا بجمع المعلومات التي يرسلها متصفحك عندما تزور خدمتنا أو عندما تصل إلى الخدمة عن طريق أو من خلال جهاز محمول.
 
-Information about your location
-We use this information to provide features of our Service, to improve and customize our Service. The information may be uploaded to the Company's servers and/or the service provider's server or it may simply be stored on your device.
+المعلومات التي تم جمعها أثناء استخدام التطبيق
+أثناء استخدام تطبيقنا ، من أجل توفير ميزات لتطبيقنا قد نجمعها ، بعد الحصول على إذن مسبق منك:
 
-You can enable or disable access to this information at any time, through your device settings.
+معلومات عن موقعك
+نستخدم هذه المعلومات لتوفير ميزات خدمتنا ، لتحسين وتخصيص خدمتنا. قد يتم تحميل المعلومات على خوادم الشركة و / أو خادم مزود الخدمة أو قد يتم تخزينها ببساطة على جهازك.
 
-Use of your personal data
-The Company may use personal data for the following purposes:
+يمكنك تمكين أو تعطيل الوصول إلى هذه المعلومات في أي وقت ، من خلال إعدادات جهازك.
 
-To provide and maintain our Service, including to monitor the use of our Service.
+استخدام بياناتك الشخصية
+يجوز للشركة استخدام البيانات الشخصية للأغراض التالية:
 
-To manage your account: to manage your registration as a user of the Service. The personal data you provide may give you access to various functions of the Service that are available to you as a registered user.
+لتوفير وصيانة خدمتنا ، بما في ذلك مراقبة استخدام خدمتنا.
 
-Contract Performance: Developing, complying with, and undertaking a purchase contract for the products, items, or services you have purchased or any other contract with us through the Service.
+لإدارة حسابك: لإدارة تسجيلك كمستخدم للخدمة. قد تمنحك البيانات الشخصية التي تقدمها إمكانية الوصول إلى العديد من وظائف الخدمة المتاحة لك كمستخدم مسجل.
 
-To contact you: to contact you by email, phone calls, SMS, or other similar forms of electronic communications, such as mobile application push notifications regarding updates or informational communications regarding contracted functionality, products, or services, including security updates, When necessary or reasonable to implement them.
+أداء العقد: التطوير والامتثال والالتزام بعقد شراء للمنتجات أو الأصناف أو الخدمات التي تمتلكها تم شراؤها أو أي عقد آخر معنا من خلال الخدمة.
 
-To provide you with news, special offers and general information about other goods, services and events offered by us that are similar to those you have already purchased or inquired about unless you have opted out of receiving such information.
+للاتصال بك: للاتصال بك عن طريق البريد الإلكتروني أو المكالمات الهاتفية أو الرسائل النصية القصيرة أو غير ذلك من أشكال الاتصالات الإلكترونية المماثلة ، مثل الإخطارات الفورية لتطبيقات الهاتف المحمول فيما يتعلق بالتحديثات أو الاتصالات المعلوماتية المتعلقة بالوظائف أو المنتجات أو الخدمات المتعاقد عليها ، بما في ذلك التحديثات الأمنية ، عند الضرورة أو معقول لتنفيذها.
 
-To manage your requests: to attend and manage your requests to us.
+لتزويدك بالأخبار والعروض الخاصة والمعلومات العامة حول السلع والخدمات والأحداث الأخرى التي نقدمها والتي تشبه تلك التي اشتريتها بالفعل أو استفسرت عنها ما لم تكن قد اخترت عدم تلقي هذه المعلومات.
 
-For a business transfer: We may use your information to evaluate or conduct a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of our assets, whether as a going concern or as part of a bankruptcy, liquidation, or similar proceeding, in which Personal Data is that we hold about users of our Service are among the transferred assets.
+لإدارة طلباتك: حضور وإدارة طلباتك إلينا.
 
-Other purposes: We may use your information for other purposes, such as analyzing data, identifying usage trends and determining the effectiveness of our marketing campaigns We will evaluate, evaluate and improve our services, products, services, marketing and your experience.
+بالنسبة لنقل الأعمال: قد نستخدم معلوماتك لتقييم أو إجراء عملية اندماج أو تجريد أو إعادة هيكلة أو إعادة تنظيم أو حل أو بيع أو نقل آخر لبعض أو كل أصولنا ، سواء كان ذلك كمنشأة مستمرة أو كجزء من الإفلاس ، التصفية ، أو الإجراءات المماثلة ، حيث تكون البيانات الشخصية التي نحتفظ بها عن مستخدمي خدمتنا من بين الأصول المنقولة.
 
-## Retention of your personal data
-The Company will retain your personal data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
+أغراض أخرى: قد نستخدم معلوماتك لأغراض أخرى ، مثل تحليل البيانات وتحديد اتجاهات الاستخدام وتحديد فعالية حملاتنا التسويقية. سنقوم بتقييم وتقييم وتحسين خدماتنا ومنتجاتنا وخدماتنا وتسويقنا وتجربتك.
 
-The Company will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of our Service, or we are legally obligated to retain this data for longer periods of time.
+## الاحتفاظ ببياناتك الشخصية
+ستحتفظ الشركة ببياناتك الشخصية فقط طالما كان ذلك ضروريًا للأغراض المنصوص عليها في سياسة الخصوصية هذه. سنحتفظ ببياناتك الشخصية ونستخدمها بالقدر اللازم للامتثال لالتزاماتنا القانونية (على سبيل المثال ، إذا طُلب منا الاحتفاظ ببياناتك للامتثال للقوانين المعمول بها) ، وحل النزاعات ، وفرض اتفاقياتنا وسياساتنا القانونية.
 
-Transfer of your personal data
-Your information, including personal data, is processed at the Company's operating offices and in any other places where the parties involved in the processing are located. This means that such information may be transferred to and maintained on computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ from those in your jurisdiction.
+ستحتفظ الشركة أيضًا ببيانات الاستخدام لأغراض التحليل الداخلي. يتم الاحتفاظ ببيانات الاستخدام عمومًا لفترة زمنية أقصر ، إلا في حالة استخدام هذه البيانات لتعزيز الأمن أو لتحسين وظائف خدمتنا ، أو نحن ملزمون قانونًا بالاحتفاظ بهذه البيانات لفترات زمنية أطول.
 
-Your acceptance of this Privacy Policy followed by your submission of such information constitutes your consent to such transfer.
+نقل بياناتك الشخصية
+تتم معالجة معلوماتك ، بما في ذلك البيانات الشخصية ، في مكاتب تشغيل الشركة وفي أي أماكن أخرى حيث توجد الأطراف المشاركة في المعالجة. هذا يعني أنه قد يتم نقل هذه المعلومات إلى أجهزة كمبيوتر موجودة خارج ولايتك أو مقاطعتك أو بلدك أو أي ولاية قضائية حكومية أخرى ، حيث قد تختلف قوانين حماية البيانات عن تلك الموجودة في ولايتك القضائية.
 
-The Company will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
+إن قبولك لسياسة الخصوصية هذه متبوعًا بتقديمك لهذه المعلومات يشكل موافقتك على هذا النقل.
 
-## Delete your personal data
-You have the right to delete or request assistance in deleting the personal data we have collected about you.
+ستتخذ الشركة جميع الخطوات اللازمة بشكل معقول لضمان التعامل مع بياناتك بشكل آمن ووفقًا لسياسة الخصوصية هذه ولن يتم نقل بياناتك الشخصية إلى منظمة أو دولة ما لم تكن هناك ضوابط كافية في مكانها بما في ذلك أمن بياناتك ومعلوماتك الشخصية الأخرى.
 
-You can update and modify your information at any time by logging into your account, if you have one, and visiting the Account Settings section which allows you to manage your personal information. You may also contact us to request access, correction or deletion of any personal information you have provided to us.
+## احذف بياناتك الشخصية
+لديك الحق في حذف أو طلب المساعدة في حذف البيانات الشخصية التي جمعناها عنك.
 
-However, please note that we may need to retain certain information when we have a legal obligation or legal basis to do so.
+يمكنك تحديث وتعديل معلوماتك في أي وقت عن طريق تسجيل الدخول إلى حسابك ، إذا كان لديك حساب ، وزيارة قسم إعدادات الحساب الذي يسمح لك بإدارة معلوماتك الشخصية. يمكنك أيضًا الاتصال بنا لطلب الوصول إلى أي معلومات شخصية قدمتها لنا أو تصحيحها أو حذفها.
 
-Disclosure of your personal data
-commercial transactions
-If the Company is involved in a merger, acquisition, or sale of assets, your Personal Data may be transferred. We will provide notice before your personal data is transferred and becomes subject to a different privacy policy.
+ومع ذلك ، يرجى ملاحظة أننا قد نحتاج إلى الاحتفاظ بمعلومات معينة عندما يكون لدينا التزام قانوني أو أساس قانوني للقيام بذلك.
 
-enforcement
-Under certain circumstances, the Company may be required to disclose your Personal Data if required to do so by law or in response to valid requests from public authorities (such as a court or government agency).
+الإفصاح عن بياناتك الشخصية
+المعاملات التجارية
+إذا كانت الشركة متورطة في عملية دمج أو استحواذ أو بيع أصول ، فقد يتم نقل بياناتك الشخصية. سنقدم إشعارًا قبل نقل بياناتك الشخصية وإخضاعها لسياسة خصوصية مختلفة.
 
-## Other legal requirements
-The Company may disclose your Personal Data in the good faith belief that such action is necessary to:
+إجباري
+في ظل ظروف معينة ، قد يُطلب من الشركة الكشف عن بياناتك الشخصية إذا طُلب منها ذلك بموجب القانون أو استجابة لطلبات صحيحة من السلطات العامة (مثل محكمة أو وكالة حكومية).
 
-comply with a legal obligation
-Protect and defend the rights or property of the company
-Prevent or investigate possible wrongdoing in connection with the Service
-Protect the personal safety of users of the Service or the public
-Protection from legal liability
+## المتطلبات القانونية الأخرى
+قد تفصح الشركة عن بياناتك الشخصية بحسن نية أن هذا الإجراء ضروري من أجل:
 
-## Security of your personal data
+الامتثال لالتزام قانوني
+حماية والدفاع عن حقوق أو ممتلكات الشركة
+منع أو التحقيق في أي مخالفات محتملة تتعلق بالخدمة
+حماية السلامة الشخصية لمستخدمي الخدمة أو الجمهور
+الحماية من المسؤولية القانونية
 
-The security of your Personal Data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.
+## أمن بياناتك الشخصية
 
-## Children's privacy
+يعد أمان بياناتك الشخصية أمرًا مهمًا بالنسبة لنا ، ولكن تذكر أنه لا توجد وسيلة نقل عبر الإنترنت أو طريقة تخزين إلكتروني آمنة بنسبة 100٪. بينما نسعى جاهدين لاستخدام وسائل مقبولة تجاريًا لحماية بياناتك الشخصية ، لا يمكننا ضمان أمنها المطلق.
 
-Our Service does not address anyone under the age of 17. We do not knowingly collect personally identifiable information from anyone under the age of 17. If you are a parent or guardian and you are aware that your child has provided us with Personal Data, please contact us. If we learn that we have collected Personal Data from anyone under the age of 17 without verification of parental consent, we take steps to remove that information from our servers.
+## خصوصية الأطفال
 
-If we need to rely on consent as a legal basis for processing your information and your country requires consent from a parent, we may require your parent's consent before we collect and use that information.
+لا تخاطب خدمتنا أي شخص يقل عمره عن 17. نحن لا نجمع معلومات التعريف الشخصية عن عمد
 
-## Links to other sites
 
-Our Service may contain links to other websites that are not operated by us. If you click on a third party link, you will be directed to that third party site. We strongly advise you to review the privacy policy of every website you visit.
+على من أي شخص يقل عمره عن 17 عامًا. إذا كنت أحد الوالدين أو وصيًا وأنت تعلم أن طفلك قد زودنا ببيانات شخصية ، فيرجى الاتصال بنا. إذا علمنا أننا جمعنا بيانات شخصية من أي شخص يقل عمره عن 17 عامًا دون التحقق من موافقة الوالدين ، فإننا نتخذ خطوات لإزالة هذه المعلومات من خوادمنا.
 
-We have no control over, and assume no responsibility for, the content, privacy policies, or practices of any third-party websites or services.
+إذا احتجنا إلى الاعتماد على الموافقة كأساس قانوني لمعالجة معلوماتك وطلب بلدك موافقة أحد الوالدين ، فقد نطلب موافقة والديك قبل أن نجمع هذه المعلومات ونستخدمها.
 
-## Changes to this Privacy Policy
+## روابط لمواقع أخرى
 
-We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+قد تحتوي خدمتنا على روابط لمواقع أخرى لا نقوم بتشغيلها. إذا قمت بالنقر فوق ارتباط جهة خارجية ، فسيتم توجيهك إلى موقع الطرف الثالث. ننصحك بشدة بمراجعة سياسة الخصوصية لكل موقع تزوره.
 
-We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the "Last Updated" date at the top of this Privacy Policy.
+ليس لدينا أي سيطرة ولا نتحمل أي مسؤولية عن المحتوى أو سياسات الخصوصية أو الممارسات الخاصة بأي مواقع أو خدمات تابعة لجهات خارجية.
 
-You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+## التغييرات في سياسة الخصوصية هذه
 
-## call us
+قد نقوم بتحديث سياسة الخصوصية الخاصة بنا من وقت لآخر. سنخطرك بأي تغييرات عن طريق نشر سياسة الخصوصية الجديدة على هذه الصفحة.
 
-Please contact us if you have any questions regarding this privacy policy:
+سنخبرك عبر البريد الإلكتروني و / أو إشعارًا بارزًا على خدمتنا ، قبل أن يصبح التغيير ساريًا وتحديث تاريخ "آخر تحديث" في الجزء العلوي من سياسة الخصوصية هذه.
 
-- ERTIQA SOFT -
-Yemen - Sana'a
+يُنصح بمراجعة سياسة الخصوصية هذه بشكل دوري لمعرفة أي تغييرات. تسري التغييرات التي تطرأ على سياسة الخصوصية هذه عند نشرها على هذه الصفحة.
+
+## اتصل بنا
+
+يرجى الاتصال بنا إذا كان لديك أي أسئلة بخصوص سياسة الخصوصية هذه:
+المطور
+- إرتقاء سوفت -
+اليمن - صنعاء
 
 (info.ertiqa.soft@gmail.com)
+
+
+
+
